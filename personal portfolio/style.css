@@ -1,0 +1,121 @@
+.title{
+  text-align: center;
+  font-size: calc(40px);
+  color:whitesmoke
+}
+ 
+.App-back {
+  background-color: #282c34;
+}
+
+.break-line{
+  height: 4px;
+  width: auto;
+  background-color:whitesmoke;
+}
+
+.Headshot{
+  width: 280;
+  height: 280;
+  align-self: right;
+  text-align: right;
+  align-items: right;
+}
+
+.header{
+  font-size: 35px;
+  color: green;
+  text-align:center;
+}
+
+.subheader{
+  font-size: 25px;
+  color: pink;
+  text-align:left;
+}
+
+.para{
+  text-align: auto;
+  color: whitesmoke;
+  font-size: 25px;
+}
+.pararight{
+  text-align: right;
+  color: whitesmoke;
+  font-size: 25px;
+}
+
+.tablest{
+  width:100%;
+  border-color: antiquewhite;
+  border-radius: 5px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 0vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+  
+  .App-Dimension {
+    background-color: #282c34;
+    min-height: 0vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(40px);
+    color: green;
+  }
+  
+  .App-Question {
+    background-color: #282c34;
+    min-height: 0vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px);
+    color: white;
+  }
+  
+  .App-statement {
+    background-color: #282c34;
+    min-height: 0vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(20px);
+    color: white;
+  }
+  
+  .App-run {
+    background-color: #FFFFFF;
+    min-height: 0vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(40px);
+    color: black;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
